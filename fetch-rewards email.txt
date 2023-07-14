@@ -1,0 +1,7 @@
+Dear product manager,
+
+I recently received a zipped json file to analyze and had a few questions. At first, I was wondering if the files were corrupt or if there was something I may have been missing. After thorough investigation, I noticed that all files seemed to be corrupt. A JSON is a collection of key-value pairs separated by a column. However, this file only has key-value pairs, however, they are not separated by a comma, nor are they enclosed by a pair of square brackets. Therefore, they are showing errors when trying to open, which makes them corrupt. I tried several different methods, such as viewing them on VS code, in a browser, and tried to open the file in python using the json package, and I was unable to properly view the data. The changes I would suggest are putting everything in the collection, then writing a name for it. Then everything should be put in array form since it is a list of collections. Finally, I would add commas to separate the list. After reviewing these files, this brings up concern that perhaps there were other files that were corrupted and affected results we got from the company’s data. To address this, I would suggest training employees again on the importance of data formatting. I would also stay in constant communication  with fellow colleagues to make sure we are all on the same page. Thank you for reading. I hope you found this email helpful.
+
+Best,
+
+Shandlie Jean-Baptiste
